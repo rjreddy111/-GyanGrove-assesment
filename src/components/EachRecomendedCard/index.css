@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.each-list-background {
+  background-image: url('https://res.cloudinary.com/dookgusbq/image/upload/v1711822731/Rectangle_2_wytalx.svg');
+  width: 500px;
+  display: flex;
+}
+.each-list-background img {
+  flex: 0 0 auto;
+}

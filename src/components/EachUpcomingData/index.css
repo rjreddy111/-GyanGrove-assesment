@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.listy-style {
+  list-style: none;
+  width: 85%;
+  border: 1px solid #b0babf;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.location-city {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 40%;
+}
+.cityName {
+  margin-left: 10px;
+  font-style: 14px;
+}
+.snow-dist {
+  display: flex;
+  font-size: 14px;
+  width: 50%;
+  justify-content: space-between;
+}
+.details-tag {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  align-items: center;
+}
